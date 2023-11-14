@@ -39,4 +39,7 @@ body section h3 {
 }
 
 .Image_side {
+    border: thick groove #FFBB3E;
+    margin-left: 55%;
+    margin-top: -14%;
 }
