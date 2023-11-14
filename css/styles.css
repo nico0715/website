@@ -37,6 +37,19 @@ body p {
 body section h3 {
     color: #FFBB3E;
 }
+section aside table {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    background-color: #FFBB3E;
+}
+tbody tr td {
+    background-color: #CBB2E6;
+}
+tbody tr th {
+    background-color: #CBB2E6;
+}
 
 .Image_side {
     border: thick groove #FFBB3E;
