@@ -15,7 +15,7 @@ body header h1 {
 body header nav {
     margin-left: 42.5%;
 }
-body header img {
+body header img /*logo*/ {
     width: 30%;
     margin-bottom: 0%;
     height: 30%;
