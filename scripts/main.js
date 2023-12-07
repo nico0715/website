@@ -5,8 +5,11 @@ document.getElementById('footer').innerHTML=("Solar psychic services©")+(new Da
 function myFunction() {
   alert("sorry, unable to connect with the dead");}
 var clicks = 0;
-
 function onClick() {
   clicks += 1;
-  document.getElementById("clicks").innerHTML = clicks;
-};
+  document.getElementById("clicks").innerHTML = clicks;}
+if (("clicks")% 2 ==0 ) {
+  console.log("even");
+} else {
+  console.log("uneven");
+}
